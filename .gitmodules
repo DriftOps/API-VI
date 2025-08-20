@@ -1,8 +1,8 @@
-[submodule "API-V-front-end"]
-	path = API-V-front-end
+[submodule "API-VI-Front-end"]
+	path = API-VI-Front-end
 	url = https://github.com/DriftOps/API-VI-Front-end
-[submodule "API-V-back-end"]
-	path = API-V-back-end
+[submodule "API-VI-Back-end"]
+	path = API-VI-Back-end
 	url = https://github.com/DriftOps/API-VI-Back-end
 
 
