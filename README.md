@@ -1,6 +1,8 @@
+# 🥗 Chatbot Nutricional com IA Generativa - medGemma
+
 ### Projeto de alunos do 6º Semestre de Análise e Desenvolvimento de Sistemas - FATEC Jessen Vidal
 
-> Este projeto tem como foco o desenvolvimento de um chatbot utilizando IA generativa, voltado para automação de atendimento empresarial, em parceria com a empresa **AAA**.
+> Este projeto é realizado em parceria com a empresa **Xertica**, especializada em soluções tecnológicas para análise de dados e automação de processos, e tem como foco o desenvolvimento de um agente conversacional inteligente utilizando IA generativa, voltado para oferecer **suporte personalizado na área de nutrição**, com base no modelo **LLM medGemma**.
 
 ---
 
@@ -18,17 +20,21 @@
 
 ---
 
-### 📋 Desafio
+## 📋 Desafio
 
-Em parceria com a **AAA**, especializada em soluções tecnológicas para análise de dados e automação de processos, o desafio foi desenvolver um chatbot com **IA generativa** capaz de responder com precisão, personalização e contexto às perguntas dos usuários. A principal motivação foi suprir a necessidade de atendimento automatizado e eficiente aos clientes da empresa.
+O desafio proposto em parceria com a **Xertica** consiste no desenvolvimento de um **agente conversacional inteligente**, baseado no modelo **LLM medGemma**, com o objetivo de fornecer **suporte personalizado em nutrição**. O sistema deve ser capaz de interagir de forma natural com o usuário, coletando informações relevantes sobre saúde, hábitos alimentares, restrições e objetivos nutricionais.
+
+A proposta visa facilitar o acesso a orientações nutricionais confiáveis e adaptadas às necessidades individuais, promovendo hábitos saudáveis e uma alimentação equilibrada, especialmente em contextos onde o suporte humano é limitado ou inacessível.
 
 ---
 
-### 👨‍💻 Solução
+## 👨‍💻 Solução
 
-A solução proposta é um **chatbot inteligente** que compreende a linguagem natural dos usuários e se integra aos sistemas internos da **AAA**. Utilizando **tecnologias avançadas de NLP e IA**, a aplicação permite interações rápidas e eficazes com os usuários, minimizando a necessidade de suporte humano.
+A solução desenvolvida é um **chatbot nutricional inteligente**, que utiliza processamento de linguagem natural e modelos de IA especializados em saúde para compreender e interagir com os usuários de forma humanizada e contextualizada.
 
-Antes da implementação, os atendimentos eram manuais, lentos e limitados por horário. Com o chatbot, o acesso a informações se torna ágil, contínuo e com alto grau de contextualização, elevando a experiência do cliente e otimizando os processos internos.
+Através do modelo **medGemma**, o sistema consegue analisar dados fornecidos pelos usuários — como preferências alimentares, alergias, metas de saúde e estilo de vida — e fornecer **recomendações nutricionais personalizadas**. Com isso, promove uma experiência informativa, acessível e segura, contribuindo para o bem-estar e a autonomia do usuário em suas escolhas alimentares.
+
+---
 
 > 🔗 Clique aqui para acessar o repositório do projeto: [Link do Projeto](#)
 
@@ -236,7 +242,7 @@ npm start
 ## 📝 Levantamento de Requisitos
 <span id="levantamento">
 
-Durante o processo inicial, foi feito o levantamento de requisitos com a equipe da **AAA**, visando entender as necessidades da empresa e mapear as funcionalidades do sistema. As demandas foram priorizadas e organizadas em **backlog** e **user stories**, permitindo um desenvolvimento ágil com base na metodologia **Scrum**.
+Durante o processo inicial, foi feito o levantamento de requisitos com a equipe da **Xertica**, visando entender as necessidades da empresa e mapear as funcionalidades do sistema. As demandas foram priorizadas e organizadas em **backlog** e **user stories**, permitindo um desenvolvimento ágil com base na metodologia **Scrum**.
 
 ---
 
@@ -254,11 +260,11 @@ A prototipação foi feita no **Figma**, contemplando uma interface intuitiva e 
 
 |    Função     | Nome                        | GitHub                                              | LinkedIn |
 |--------------|-----------------------------|-----------------------------------------------------|----------|
-| Product Owner | Kalil Pereira               | [GitHub](https://github.com/kalil004)               | [LinkedIn](https://www.linkedin.com/in/erik-zanetti-ferraz-09895a180/) |
-| Scrum Master  | Luiz Henrique Souza Silva   | [GitHub](https://github.com/LuizHenrique435)        | [LinkedIn](https://www.linkedin.com/in/luiz-henrique-souza-silva-7b24a9279/) |
-| Dev Team      | Felipe Pereira              | [GitHub](https://github.com/felipereira10)          | [LinkedIn](https://www.linkedin.com/in/felipe-pereira-638370172/) |
-| Dev Team      | Erik Zanetti Ferraz         | [GitHub](https://github.com/ErikZFerraz)            | [LinkedIn](https://www.linkedin.com/in/erik-zanetti-ferraz-09895a180/) |
-| Dev Team      | Enzo Pereira                | [GitHub](https://github.com/Enzopereira01)          | [LinkedIn](https://www.linkedin.com/in/erik-zanetti-ferraz-09895a180/) |
+| Product Owner | Kalil Pereira               | [GitHub](https://github.com/kalil004)             | [LinkedIn](https://www.linkedin.com/in/kalil-alves-381633270/) |
+| Scrum Master  | Luiz Henrique Souza Silva   | [GitHub](https://github.com/LuizHenrique435) | [LinkedIn](https://www.linkedin.com/in/luiz-henrique-souza-silva-7b24a9279/) |
+| Dev Team      | Erik Zanetti Ferraz         | [GitHub](https://github.com/ErikZFerraz)          | [LinkedIn](https://www.linkedin.com/in/erik-zanetti-ferraz-09895a180/) |
+| Dev Team      | Felipe Pereira              | [GitHub](https://github.com/felipereira10)        | [LinkedIn](https://www.linkedin.com/in/felipe-pereira-638370172/) |
+| Dev Team      | Enzo Pereira                | [GitHub](https://github.com/Enzopereira01)        | [LinkedIn](https://www.linkedin.com/in/enzo-pereira-13331b272/) |
 
 ---
 
