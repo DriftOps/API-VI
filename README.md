@@ -1,4 +1,4 @@
-# 🥗 Chatbot Nutricional com IA Generativa - medGemma
+# Chatbot Nutricional com IA Generativa - medGemma
 
 ### Projeto de alunos do 6º Semestre de Análise e Desenvolvimento de Sistemas - FATEC Jessen Vidal
 
