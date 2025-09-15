@@ -6,3 +6,6 @@
 	url = https://github.com/DriftOps/API-VI-Back-end
 
 
+[submodule "API-VI-AI"]
+	path = API-VI-AI
+	url = https://github.com/DriftOps/API-VI-AI
