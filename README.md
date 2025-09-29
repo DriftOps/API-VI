@@ -1,4 +1,3 @@
-
 ---
 
 # NutriX
@@ -11,73 +10,63 @@ A proposta visa facilitar o acesso a orientações nutricionais confiáveis e ad
 
 ---
 
-## 📋 Backlog de Produto
+## 📋 Sprint Backlog
 
-| Rank | Prioridade | User Story                                                                                                                              | Estimativa | Sprint | Status |
-| ---- | ---------- | --------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------ | ------ |
-| 1    | Alta       | Como paciente, quero uma interface simples para enviar mensagens de texto ao chatbot e receber respostas geradas pela IA em tempo real. | 8          | 1      | ✅      |
-| 2    | Alta       | Como paciente, quero visualizar e editar meus atributos nutritivos e objetivos.                                                         | 5          | 1      | ✅      |
-| 3    | Alta       | Como paciente, quero criar uma conta no sistema (login/cadastro), para salvar meu perfil e conversas.                                   | 8          | 1      | ✅      |
-| 4    | Alta       | Como paciente, quero avaliar a resposta do chatbot como “útil” ou “inadequada”.                                                         | 5          | 2      | ⏳      |
-| 5    | Alta       | Como paciente, quero que minhas conversas sejam armazenadas para manter contexto.                                                       | 8          | 2      | ⏳      |
-| 6    | Média      | Como desenvolvedor, quero armazenar todas as perguntas, respostas e avaliações no banco de dados.                                       | 8          | 2      | ⏳      |
-| 7    | Média      | Como paciente, quero receber informações nutricionais básicas de alimentos cadastrados.                                                 | 8          | 2      | ⏳      |
-| 8    | Média      | Como paciente, quero uma interface de acompanhamento e progresso nutricional.                                                           | 13         | 2      | ⏳      |
-| 9    | Alta       | Como paciente, quero recomendações nutricionais personalizadas fundamentadas em fontes confiáveis.                                      | 13         | 3      | ⏳      |
-| 10   | Média      | Como paciente, quero redefinir e criar novas conversas para alteração eficiente de objetivos.                                           | 8          | 3      | ⏳      |
-| 11   | Média      | Como paciente, quero exportar ou baixar o histórico das minhas conversas em formato de texto.                                           | 5          | 3      | ⏳      |
-| 12   | Baixa      | Como paciente, quero uma interface de ajuda para dúvidas de uso da aplicação.                                                           | 5          | 3      | ⏳      |
-| 13   | Baixa      | Como paciente, quero que o chatbot sugira perguntas relacionadas após cada resposta.                                                    | 8          | 3      | ⏳      |
+📑 **[Link para Backlog no Google Spreadsheets – Placeholder]**
+
+### Sprint 1 (08/09 – 28/09) ✅ Concluído
+
+| Rank | Prioridade | User Story                                                                                                                              | Estimativa | Sprint | Status    |
+| ---- | ---------- | --------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------ | --------- |
+| 1    | Alta       | Como paciente, quero uma interface simples para enviar mensagens de texto ao chatbot e receber respostas geradas pela IA em tempo real. | 8          | 1      | Concluído |
+| 2    | Alta       | Como paciente, quero visualizar e editar meus atributos nutritivos e objetivos, para rápido ajuste e redefinição.                       | 5          | 1      | Concluído |
+| 3    | Alta       | Como paciente, quero criar uma conta no sistema (login/cadastro), para que minhas conversas e perfil fiquem salvos com segurança.       | 8          | 1      | Concluído |
+
+🎥 **[Link para Vídeo da Sprint 1]**
 
 ---
 
-## 🗂 Sprint Backlog
+### Sprint 2 (06/10 – 26/10) ⏳ Em andamento
 
-### Sprint 1 (08/09 - 28/09)
+| Rank | Prioridade | User Story                                                                                         | Estimativa | Sprint | Status       |
+| ---- | ---------- | -------------------------------------------------------------------------------------------------- | ---------- | ------ | ------------ |
+| 1    | Alta       | Como paciente, quero avaliar a resposta do chatbot como “útil” ou “inadequada”.                    | 5          | 2      | Em andamento |
+| 2    | Alta       | Como paciente, quero que minhas conversas sejam armazenadas, para que o chatbot mantenha contexto. | 8          | 2      | Em andamento |
+| 3    | Alta       | Como desenvolvedor, quero armazenar todas as perguntas, respostas e avaliações no banco de dados.  | 5          | 2      | Em andamento |
+| 4    | Média      | Como paciente, quero receber informações nutricionais básicas (calorias e macronutrientes).        | 8          | 2      | Em andamento |
+| 5    | Média      | Como paciente, quero uma interface de acompanhamento e progresso nutricional.                      | 13         | 2      | Em andamento |
 
-* Chatbot com interação básica em tempo real
-* Cadastro/Login de paciente
-* Edição e visualização de atributos nutricionais
-
-🎥 [Vídeo do Incremento Sprint 1](#)
-
----
-
-### Sprint 2 (06/10 - 26/10)
-
-* Feedback de respostas do chatbot
-* Armazenamento e contexto das conversas
-* Integração com banco de dados
-* Interface de progresso nutricional
-
-🎥 [Vídeo do Incremento Sprint 2](#)
+🎥 **[Link para Vídeo da Sprint 2]**
 
 ---
 
-### Sprint 3 (03/11 - 20/11)
+### Sprint 3 (03/11 – 20/11) 🔜 Planejado
 
-* Recomendação nutricional personalizada
-* Exportação de histórico de conversas
-* Interface de ajuda
-* Sugestão de perguntas relacionadas
+| Rank | Prioridade | User Story                                                                     | Estimativa | Sprint | Status    |
+| ---- | ---------- | ------------------------------------------------------------------------------ | ---------- | ------ | --------- |
+| 1    | Alta       | Como paciente, quero receber recomendações nutricionais personalizadas.        | 13         | 3      | Planejado |
+| 2    | Alta       | Como paciente, quero redefinir e criar novas conversas para alterar objetivos. | 8          | 3      | Planejado |
+| 3    | Média      | Como paciente, quero exportar ou baixar o histórico de conversas.              | 5          | 3      | Planejado |
+| 4    | Média      | Como paciente, quero uma interface de ajuda sobre o uso da aplicação.          | 3          | 3      | Planejado |
+| 5    | Baixa      | Como paciente, quero que o chatbot sugira perguntas relacionadas.              | 5          | 3      | Planejado |
 
-🎥 [Vídeo do Incremento Sprint 3](#)
-
----
-
-## 📆 Cronograma de Evolução do Projeto
-
-![Cronograma de Sprints](./assets/sprints-cronograma.png)
+🎥 **[Link para Vídeo da Sprint 3]**
 
 ---
 
-## 🛠 Tecnologias Utilizadas
+## 📅 Cronograma de Evolução do Projeto
 
-* **Front-end:** Vue.js
-* **Back-end:** Spring Boot
-* **IA:** Python + FastAPI
-* **Banco de Dados:** PostgreSQL
-* **Ferramentas:** Google ADK, Jira
+📌 **[Inserir Imagem do Cronograma de Sprints – Placeholder]**
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+* **Frontend**: Vue.js
+* **Backend**: Spring Boot
+* **IA**: Python (FastAPI/Uvicorn)
+* **Banco de Dados**: PostgreSQL
+* **Ferramentas**: Google ADK, Jira
 
 ---
 
@@ -85,40 +74,39 @@ A proposta visa facilitar o acesso a orientações nutricionais confiáveis e ad
 
 ```
 nutrition-project/
-│
-├── API-VI-Front-end
-├── API-VI-Back-end
-└── API-VI-AI
+│── API-VI-Front-end/
+│── API-VI-Back-end/
+│── API-VI-AI/
 ```
 
 ---
 
-## 🚀 Como Executar, Usar e Testar o Projeto
+## ▶️ Como Executar
 
-### Front-end
+### 🔹 Front-end
 
 ```bash
-# Pré-requisito: Node.js instalado
+# Certifique-se de ter o Node.js instalado
 cd nutrition-project/src
 npm install
 npm run dev
 ```
 
-### Back-end
+### 🔹 Back-end
 
 ```bash
-# Pré-requisito: Maven instalado
-# Conectar ao banco local via SQLTools ou pgAdmin
+# Instale o Maven globalmente
+# Conecte ao Postgres (pgAdmin ou SQLTools no VSCode)
 mvn spring-boot:run
 ```
 
-### IA
+### 🔹 AI
 
 ```bash
-# Pré-requisito: Python 3.10 instalado
+# Requer Python 3.10
 python -m venv venv
-venv/Scripts/Activate  # Windows
-source venv/bin/activate  # MacOS/Linux
+source venv/bin/activate   # macOS/Linux
+venv/Scripts/Activate      # Windows
 
 pip install -r requirements.txt
 uvicorn app:app --reload --port 8001
@@ -126,68 +114,43 @@ uvicorn app:app --reload --port 8001
 
 ---
 
-## ✅ Checklist DoR (Definition of Ready)
+## ✅ Checklist de DoR
 
 * [ ] Título claro e objetivo
 * [ ] Descrição detalhada com contexto e valor de negócio
 * [ ] Critérios de aceitação bem definidos e mensuráveis
-* [ ] Regras de negócio documentadas
-* [ ] Estimativa de esforço realizada
-* [ ] Dependências identificadas
+* [ ] Regras de negócio documentadas e compreendidas
+* [ ] Estimativa de esforço realizada pela equipe
+* [ ] Dependências identificadas e não bloqueantes
 * [ ] Priorização alinhada com o Product Owner
-* [ ] Estratégia de testes definida
+* [ ] Estratégia de testes definida (unitários, integração, aceitação)
+
+## ✅ Checklist de DoD
+
+* [ ] Código implementado conforme User Story
+* [ ] Sem erros ou warnings
+* [ ] Testes unitários implementados e passando
+* [ ] Documentação de código atualizada
+* [ ] Aceitação final confirmada pelo PO
+
+📌 **DoR e DoD por sprint estarão detalhados no Backlog (placeholder para indexação).**
 
 ---
 
-## 📝 DoD (Definition of Done) por Sprint
+## 🌱 Estratégia de Branch
 
-### Sprint 1
-
-* Código implementado sem erros
-* Testes unitários executados com sucesso
-* Documentação inicial entregue
-* Validação com Product Owner
-
-### Sprint 2
-
-* Funcionalidades com persistência de dados testadas
-* Testes de integração realizados
-* Critérios de aceitação validados
-* Feedback incorporado
-
-### Sprint 3
-
-* Recomendações nutricionais validadas
-* Exportação de histórico testada
-* Manual do usuário atualizado
-* Aceitação final confirmada
+* `main` → branch principal (produção)
+* `dev` → integração de funcionalidades
+* `feat/<nome-da-funcionalidade>` → desenvolvimento isolado até aprovação
 
 ---
 
-## 🌿 Estratégia de Branch
+## 👥 Membros do Time
 
-* `main` → branch principal
-* `dev` → branch de integração
-* `feat/<nome-da-funcionalidade>` → branch de desenvolvimento
-
----
-
-## 🛠 Manual de Instalação
-
-Disponível nos READMEs de cada submódulo:
-
-* [Front-end](./API-VI-Front-end/README.md)
-* [Back-end](./API-VI-Back-end/README.md)
-* [IA](./API-VI-AI/README.md)
-
----
-
-## 👨‍💻 Membros do Projeto
-
-* [Kalil Alves Pereira](https://github.com/kalil004) - [LinkedIn](https://www.linkedin.com/in/kalil-pereira-ti/)
-* [Luiz Henrique Souza Silva](https://github.com/LuizHenrique435) - [LinkedIn](https://www.linkedin.com/in/luiz-henrique-souza-silva-7b24a9279/)
-* [Felipe Silva Pereira](https://github.com/felipereira10) - [LinkedIn](https://www.linkedin.com/in/felipe-pereira-638370172/)
-* [Erik Zanetti Ferraz](https://github.com/ErikZFerraz) - [LinkedIn](https://www.linkedin.com/in/erik-zanetti-ferraz-09895a180/)
-* [William Claudimar Silva](https://github.com/William281329) - [LinkedIn](https://www.linkedin.com/in/william-silva-05213a3a/)
+* **Kalil Alves Pereira** - [GitHub](https://github.com/kalil004) | [LinkedIn](https://www.linkedin.com/in/kalil-pereira-ti/)
+* **Luiz Henrique Souza Silva** - [GitHub](https://github.com/LuizHenrique435) | [LinkedIn](https://www.linkedin.com/in/luiz-henrique-souza-silva-7b24a9279/)
+* **Felipe Silva Pereira** - [GitHub](https://github.com/felipereira10) | [LinkedIn](https://www.linkedin.com/in/felipe-pereira-638370172/)
+* **Erik Zanetti Ferraz** - [GitHub](https://github.com/ErikZFerraz) | [LinkedIn](https://www.linkedin.com/in/erik-zanetti-ferraz-09895a180/)
+* **William Claudimar Silva** - [GitHub](https://github.com/William281329) | [LinkedIn](https://www.linkedin.com/in/william-silva-05213a3a/)
 
 ---
