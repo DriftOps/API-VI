@@ -56,7 +56,8 @@ A proposta visa facilitar o acesso a orientações nutricionais confiáveis e ad
 
 ## 📅 Cronograma de Evolução do Projeto
 
-📌 **[Imagem do Cronograma de Sprints]**
+<img width="1100" height="400" alt="NutriX Cronograma" src="https://github.com/DriftOps/API-VI/blob/main/docs/cronogramaNutrix.png" />
+<img align="center">
 
 ---
 
