@@ -12,7 +12,7 @@ A proposta visa facilitar o acesso a orientações nutricionais confiáveis e ad
 
 ## 📋 Sprint Backlog
 
-📑 **[Link para Backlog no Google Spreadsheets – Placeholder]**
+📑 **[https://docs.google.com/spreadsheets/d/1cS16XQPVaHpgQhzOFcAR-2EyrK1DHSILumbIF2QJJJA/edit?gid=1340111089#gid=1340111089]**
 
 ### Sprint 1 (08/09 – 28/09) ✅ Concluído
 
@@ -22,7 +22,7 @@ A proposta visa facilitar o acesso a orientações nutricionais confiáveis e ad
 | 2    | Alta       | Como paciente, quero visualizar e editar meus atributos nutritivos e objetivos, para rápido ajuste e redefinição.                       | 5          | 1      | Concluído |
 | 3    | Alta       | Como paciente, quero criar uma conta no sistema (login/cadastro), para que minhas conversas e perfil fiquem salvos com segurança.       | 8          | 1      | Concluído |
 
-🎥 **[Link para Vídeo da Sprint 1]**
+🎥 **[Vídeo da Sprint 1]**
 
 ---
 
@@ -36,7 +36,7 @@ A proposta visa facilitar o acesso a orientações nutricionais confiáveis e ad
 | 4    | Média      | Como paciente, quero receber informações nutricionais básicas (calorias e macronutrientes).        | 8          | 2      | Em andamento |
 | 5    | Média      | Como paciente, quero uma interface de acompanhamento e progresso nutricional.                      | 13         | 2      | Em andamento |
 
-🎥 **[Link para Vídeo da Sprint 2]**
+🎥 **[Vídeo da Sprint 2]**
 
 ---
 
@@ -50,13 +50,13 @@ A proposta visa facilitar o acesso a orientações nutricionais confiáveis e ad
 | 4    | Média      | Como paciente, quero uma interface de ajuda sobre o uso da aplicação.          | 3          | 3      | Planejado |
 | 5    | Baixa      | Como paciente, quero que o chatbot sugira perguntas relacionadas.              | 5          | 3      | Planejado |
 
-🎥 **[Link para Vídeo da Sprint 3]**
+🎥 **[Vídeo da Sprint 3]**
 
 ---
 
 ## 📅 Cronograma de Evolução do Projeto
 
-📌 **[Inserir Imagem do Cronograma de Sprints – Placeholder]**
+📌 **[Imagem do Cronograma de Sprints]**
 
 ---
 
