@@ -12,7 +12,7 @@ A proposta visa facilitar o acesso a orientações nutricionais confiáveis e ad
 
 ## 📋 Sprint Backlog
 
-📑 **[https://docs.google.com/spreadsheets/d/1cS16XQPVaHpgQhzOFcAR-2EyrK1DHSILumbIF2QJJJA/edit?gid=1340111089#gid=1340111089]**
+📑 **[Backlog do produto](https://docs.google.com/spreadsheets/d/1cS16XQPVaHpgQhzOFcAR-2EyrK1DHSILumbIF2QJJJA/edit?gid=1340111089#gid=1340111089)**
 
 ### Sprint 1 (08/09 – 28/09) ✅ Concluído
 
