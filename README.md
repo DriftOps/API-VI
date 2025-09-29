@@ -1,7 +1,7 @@
 
 ---
 
-# Projeto Nutrition Chatbot
+# NutriX
 
 ## 📌 Descrição do Desafio
 
