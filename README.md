@@ -14,7 +14,7 @@ A proposta visa facilitar o acesso a orientações nutricionais confiáveis e ad
 
 📑 **[Backlog do produto](https://docs.google.com/spreadsheets/d/1cS16XQPVaHpgQhzOFcAR-2EyrK1DHSILumbIF2QJJJA/edit?gid=1340111089#gid=1340111089)**
 
-### Sprint 1 (08/09 – 28/09) ✅ Concluído
+### Sprint 1 (08/09 – 28/09) ✅ Concluída
 
 | Rank | Prioridade | User Story                                                                                                                              | Estimativa | Sprint | Status    |
 | ---- | ---------- | --------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------ | --------- |
@@ -26,7 +26,7 @@ A proposta visa facilitar o acesso a orientações nutricionais confiáveis e ad
 
 ---
 
-### Sprint 2 (06/10 – 26/10) ⏳ Em andamento
+### Sprint 2 (06/10 – 26/10) ⏳ Em breve
 
 | Rank | Prioridade | User Story                                                                                         | Estimativa | Sprint | Status       |
 | ---- | ---------- | -------------------------------------------------------------------------------------------------- | ---------- | ------ | ------------ |
@@ -40,7 +40,7 @@ A proposta visa facilitar o acesso a orientações nutricionais confiáveis e ad
 
 ---
 
-### Sprint 3 (03/11 – 20/11) 🔜 Planejado
+### Sprint 3 (03/11 – 20/11) ⏳ Em breve
 
 | Rank | Prioridade | User Story                                                                     | Estimativa | Sprint | Status    |
 | ---- | ---------- | ------------------------------------------------------------------------------ | ---------- | ------ | --------- |
