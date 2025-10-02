@@ -120,7 +120,6 @@ uvicorn app:app --reload --port 8001
 * [ ] Título claro e objetivo
 * [ ] Descrição detalhada com contexto e valor de negócio
 * [ ] Critérios de aceitação bem definidos e mensuráveis
-* [ ] Regras de negócio documentadas e compreendidas
 * [ ] Estimativa de esforço realizada pela equipe
 * [ ] Dependências identificadas e não bloqueantes
 * [ ] Priorização alinhada com o Product Owner
