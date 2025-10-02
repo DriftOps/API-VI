@@ -134,7 +134,7 @@ uvicorn app:app --reload --port 8001
 * [ ] Documentação de código atualizada
 * [ ] Aceitação final confirmada pelo PO
 
-📌 **DoR e DoD por sprint estarão detalhados no Backlog (placeholder para indexação).**
+📌 **DoR e DoD por sprint estão detalhados no backlog acima.**
 
 ---
 
