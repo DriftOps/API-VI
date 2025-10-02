@@ -124,17 +124,15 @@ uvicorn app:app --reload --port 8001
 * [ ] Estimativa de esforço realizada pela equipe
 * [ ] Dependências identificadas e não bloqueantes
 * [ ] Priorização alinhada com o Product Owner
-* [ ] Estratégia de testes definida (unitários, integração, aceitação)
 
 ## ✅ Checklist de DoD
 
 * [ ] Código implementado conforme User Story
 * [ ] Sem erros ou warnings
-* [ ] Testes unitários implementados e passando
 * [ ] Documentação de código atualizada
 * [ ] Aceitação final confirmada pelo PO
 
-📌 **DoR e DoD por sprint estão detalhados no backlog acima.**
+📌 **DoR e DoD por user story estão detalhados no backlog acima.**
 
 ---
 
