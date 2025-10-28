@@ -47,7 +47,7 @@ A proposta visa facilitar o acesso a orientações nutricionais confiáveis e ad
 
 ---
 
-### Sprint 2 (06/10 – 26/10) ⏳ Em breve
+### Sprint 2 (06/10 – 26/10) ✅ Concluída
 
 | Rank | Prioridade | User Story                                                                                                                                                                                                                                                                    | Estimativa | Meta de Sprint |
 | ---- | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | -------------- |
@@ -112,7 +112,15 @@ nutrition-project/
 
 ```bash
 # Certifique-se de ter o Node.js instalado
+```
+📌 Crie um arquivo .env com as variáveis:
+
+```env
+VITE_API_URL=http://localhost:8080
+```
+```bash
 cd nutrition-project/src
+
 npm install
 npm run dev
 ```
@@ -121,7 +129,8 @@ npm run dev
 
 ```bash
 # Instale o Maven globalmente
-# Conecte ao Postgres (pgAdmin ou SQLTools no VSCode)
+# Conecte ao Postgres na porta 5432 (pgAdmin ou SQLTools no VSCode)
+# Configure o arquivo application.properties com os dados da sua conexão.
 mvn spring-boot:run
 ```
 
