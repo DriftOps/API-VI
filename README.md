@@ -4,7 +4,7 @@
 
 ## 📌 Descrição do Desafio
 
-O desafio proposto em parceria com a Xertica consiste no desenvolvimento de um agente conversacional inteligente, baseado no modelo LLM medGemma, com o objetivo de fornecer suporte personalizado em nutrição. O sistema deve ser capaz de interagir de forma natural com o usuário, coletando informações relevantes sobre saúde, hábitos alimentares, restrições e objetivos nutricionais.
+O desafio proposto em parceria com a Xertica consiste no desenvolvimento de um agente conversacional inteligente, baseado no modelo LLM Gemini, com o objetivo de fornecer suporte personalizado em nutrição. O sistema deve ser capaz de interagir de forma natural com o usuário, coletando informações relevantes sobre saúde, hábitos alimentares, restrições e objetivos nutricionais.
 
 A proposta visa facilitar o acesso a orientações nutricionais confiáveis e adaptadas às necessidades individuais, promovendo hábitos saudáveis e uma alimentação equilibrada, especialmente em contextos onde o suporte humano é limitado ou inacessível.
 
@@ -59,7 +59,7 @@ A proposta visa facilitar o acesso a orientações nutricionais confiáveis e ad
 | 10   | Baixa      | Como paciente, quero um resumo e uma demonstração visual e interativa de progresso nutricional ao longo de ciclos diferentes (dias, semanas, meses), para visualização rápida e eficiente.                                                                                    | 8          | ❌                |
 
 
-🎥 **[Vídeo da Sprint 2]**
+🎥 **[Vídeo da Sprint 2](https://youtu.be/s6LwfTT1MOU)**
 
 ---
 
