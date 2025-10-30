@@ -33,11 +33,11 @@ A proposta visa facilitar o acesso a orientações nutricionais confiáveis e ad
 
 ## 📅 Cronograma de Sprints
 
-| Sprint          |    Período    | Documentação                                     |
-| --------------- | :-----------: | ------------------------------------------------ |
-|  **SPRINT 1** | 08/09 - 28/09 | [Sprint 1 Docs](./docs/sprints/sprint1.md) |
-|  **SPRINT 2** | 06/10 - 26/10 | [Sprint 2 Docs](./docs/sprints/sprint2.md) |
-|  **SPRINT 3** | 03/11 - 20/11 | [Sprint 3 Docs](./docs/sprints/sprint3.md) |
+| Sprint          |    Período    | Documentação                                     | Vídeos     |
+| --------------- | :-----------: | ------------------------------------------------ |------------|
+|  **SPRINT 1** | 08/09 - 28/09 | [Sprint 1 Docs](./docs/sprints/sprint1.md) |  [Vídeo Sprint 1](https://www.youtube.com/watch?v=KUwH5WR_sSo)|
+|  **SPRINT 2** | 06/10 - 26/10 | [Sprint 2 Docs](./docs/sprints/sprint2.md) | [Vídeo Sprint 2](https://youtu.be/s6LwfTT1MOU)|
+|  **SPRINT 3** | 03/11 - 20/11 | [Sprint 3 Docs](./docs/sprints/sprint3.md) | [Vídeo Sprint 3]()| 
 
 ---
 
