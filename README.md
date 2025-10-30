@@ -1,5 +1,3 @@
----
-
 # NutriX
 
 ## 📌 Descrição do Desafio
@@ -31,57 +29,15 @@ A proposta visa facilitar o acesso a orientações nutricionais confiáveis e ad
 | 15   | Média      | Como paciente, quero receber recomendações de locais de treino e venda de alimentos com os preços mais acessíveis, com base nos meus dados residenciais (estado, cidade, bairro, rua).                                                                                        | 8          | 3      | Fonte de dados (Google Places, APIs locais) definida. Geolocalização habilitada. Estrutura de recomendação pronta.                   |
 
 
-## 📋 Sprint Backlog
-
-### Sprint 1 (08/09 – 28/09) ✅ Concluída
-
-| Rank | Prioridade | User Story                                                                                                                                                                                                    | Estimativa | Meta de Sprint |
-| ---- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | -------------- |
-| 1    | Alta       | Como paciente, quero uma interface simples para enviar mensagens de texto ao chatbot e receber respostas geradas pela IA em tempo real, para que eu possa interagir de forma simples e contínua.              | 13         | ✔️             |
-| 2    | Média      | Como paciente, quero visualizar e editar meus atributos nutritivos e objetivos, para rápido ajuste e redefinição.                                                                                             | 8          |      ✔️          |
-| 3    | Alta       | Como paciente, quero criar uma conta no sistema (login/cadastro), para que minhas conversas e perfil fiquem salvos com segurança.                                                                             | 5          |      ✔️          |
-| 4    | Média      | Como paciente, quero receber informações nutricionais básicas (ex.: calorias e macronutrientes) de alimentos cadastrados em uma base de dados sólida, para ter uma visão inicial da qualidade da minha dieta. | 13         |     ✔️           |
-
-
-🎥 **[Vídeo da Sprint 1](https://www.youtube.com/watch?v=KUwH5WR_sSo)**
-
 ---
 
-### Sprint 2 (06/10 – 26/10) ✅ Concluída
+## 📅 Cronograma de Sprints
 
-| Rank | Prioridade | User Story                                                                                                                                                                                                                                                                    | Estimativa | Meta de Sprint |
-| ---- | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | -------------- |
-| 5    | Média      | Como desenvolvedor, quero avaliar a resposta do chatbot como “útil” ou “inadequada”, para que o sistema seja treinado com feedback.                                                                                                                                           | 8          | ✔️              |
-| 6    | Alta       | Como nutricionista, quero coletar informações médicas relevantes (anamnese) sobre o usuário, para que o acompanhamento seja mais adequado e abrangente à situação do paciente.                                                                                                | 8          | ✔️               |
-| 7    | Média      | Como paciente, quero receber recomendações nutricionais personalizadas do agente a partir dos meus objetivos, perfil e outras condições físicas (emagrecimento, ganho de massa, gostos pessoais), fundamentadas em fontes confiáveis, para que o plano faça sentido para mim. | 13         |  ✔️              |
-| 8    | Alta       | Como paciente, quero registrar minhas refeições e que o sistema calcule minha ingestão de calorias e outros nutrientes ao longo de diferentes períodos de tempo, para acompanhar minhas metas de forma prática.                                                               | 13         |        ✔️        |
-| 9    | Média      | Como nutricionista, quero revisar respostas do agente para que a confiabilidade e credibilidade seja garantida.                                                                                                                                                               | 8          | ❌               |
-| 10   | Baixa      | Como paciente, quero um resumo e uma demonstração visual e interativa de progresso nutricional ao longo de ciclos diferentes (dias, semanas, meses), para visualização rápida e eficiente.                                                                                    | 8          | ❌                |
-
-
-🎥 **[Vídeo da Sprint 2](https://youtu.be/s6LwfTT1MOU)**
-
----
-
-### Sprint 3 (03/11 – 20/11) ⏳ Em breve
-
-| Rank | Prioridade | User Story                                                                                                                                                                                                     | Estimativa | Meta de Sprint |
-| ---- | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | -------------- |
-| 11   | Média      | Como paciente, quero receber receitas para cada refeição diária (café da manhã, almoço, e jantar) de acordo com os meus dados nutricionais e preferências, para ter opções práticas e agradáveis no dia a dia. | 13         | ✔️             |
-| 12   | Baixa      | Como paciente, quero exportar ou baixar o histórico das minhas conversas em formato de texto, para guardar ou compartilhar minhas recomendações nutricionais.                                            | 8          |    ✔️            |
-| 13   | Baixa      | Como paciente, quero uma interface de ajuda para esclarecimento de dúvidas em relação ao uso da aplicação.                                                                                                     | 5          |    ❌            |
-| 14   | Baixa      | Como paciente, quero que o agente sugira perguntas relacionadas após cada resposta, para que eu tenha mais facilidade em continuar a conversa.                                                                 | 8          |    ❌            |
-| 15   | Média      | Como paciente, quero receber recomendações de locais de treino e venda de alimentos com os preços mais acessíveis, com base nos meus dados residenciais (estado, cidade, bairro, rua).                         | 8          |      ❌          |
-
-
-🎥 **[Vídeo da Sprint 3]**
-
----
-
-## 📅 Cronograma de Evolução do Projeto
-
-<img width="1100" height="400" alt="NutriX Cronograma" src="https://github.com/DriftOps/API-VI/blob/main/docs/cronogramaNutrix.png" />
-<img align="center">
+| Sprint          |    Período    | Documentação                                     |
+| --------------- | :-----------: | ------------------------------------------------ |
+|  **SPRINT 1** | 08/09 - 28/09 | [Sprint 1 Docs](./docs/sprints/sprint1.md) |
+|  **SPRINT 2** | 06/10 - 26/10 | [Sprint 2 Docs](./docs/sprints/sprint2.md) |
+|  **SPRINT 3** | 03/11 - 20/11 | [Sprint 3 Docs](./docs/sprints/sprint3.md) |
 
 ---
 
