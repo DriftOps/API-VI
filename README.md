@@ -152,6 +152,14 @@ uvicorn app:app --reload --port 8001
 
 ---
 
+## Fluxo de interação
+
+<img width="1100" height="400" alt="NutriX Workflow" src="https://github.com/DriftOps/API-VI/blob/main/docs/img/NutriXSystem.png" />
+
+## Fluxo de agentes
+
+<img width="1100" height="400" alt="NutriX Workflow" src="https://github.com/DriftOps/API-VI/blob/main/docs/img/NutriX%20AI.png" />
+
 ## 👥 Membros do Time
 
 * **Kalil Alves Pereira** - [GitHub](https://github.com/kalil004) | [LinkedIn](https://www.linkedin.com/in/kalil-pereira-ti/)
