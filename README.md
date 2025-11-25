@@ -162,10 +162,10 @@ uvicorn app:app --reload --port 8001
 
 ## 👥 Membros do Time
 
-* **Kalil Alves Pereira** - [GitHub](https://github.com/kalil004) | [LinkedIn](https://www.linkedin.com/in/kalil-pereira-ti/)
-* **Luiz Henrique Souza Silva** - [GitHub](https://github.com/LuizHenrique435) | [LinkedIn](https://www.linkedin.com/in/luiz-henrique-souza-silva-7b24a9279/)
-* **Felipe Silva Pereira** - [GitHub](https://github.com/felipereira10) | [LinkedIn](https://www.linkedin.com/in/felipe-pereira-638370172/)
-* **Erik Zanetti Ferraz** - [GitHub](https://github.com/ErikZFerraz) | [LinkedIn](https://www.linkedin.com/in/erik-zanetti-ferraz-09895a180/)
-* **William Claudimar Silva** - [GitHub](https://github.com/William281329) | [LinkedIn](https://www.linkedin.com/in/william-silva-05213a3a/)
+* **Kalil Alves Pereira** - Product Owner - [GitHub](https://github.com/kalil004) | [LinkedIn](https://www.linkedin.com/in/kalil-pereira-ti/)
+* **Luiz Henrique Souza Silva** - Scrum Master - [GitHub](https://github.com/LuizHenrique435) | [LinkedIn](https://www.linkedin.com/in/luiz-henrique-souza-silva-7b24a9279/)
+* **Felipe Silva Pereira** - Developer Team - [GitHub](https://github.com/felipereira10) | [LinkedIn](https://www.linkedin.com/in/felipe-pereira-638370172/)
+* **Erik Zanetti Ferraz** - Developer Team - [GitHub](https://github.com/ErikZFerraz) | [LinkedIn](https://www.linkedin.com/in/erik-zanetti-ferraz-09895a180/)
+* **William Claudimar Silva** - Developer Team - [GitHub](https://github.com/William281329) | [LinkedIn](https://www.linkedin.com/in/william-silva-05213a3a/)
 
 ---
